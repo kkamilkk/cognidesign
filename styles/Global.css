@@ -1,0 +1,13 @@
+body {
+  background: linear-gradient(to right, #f5f7fa, #c3cfe2);
+  color: #333;
+}
+
+h1, h2 {
+  color: #333;
+}
+
+a {
+  color: #007acc;
+  text-decoration: none;
+}
